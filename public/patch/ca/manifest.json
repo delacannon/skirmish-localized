@@ -1,0 +1,260 @@
+{
+ "format": "kizuato-re-patch/1",
+ "game": "Skirmish",
+ "lang": "ca",
+ "version": "2026.11.08",
+ "created": "2026-11-10T05:34:49.291Z",
+ "title": "Skirmish — traducció al català",
+ "requires": "your own copy of Skirmish (AIL 1994, PC-98), hard-disk image (.hdi) with the SK folder",
+ "credits": [
+  "Skirmish CA",
+  "Joc original © 1994 AIL.",
+  "Fet amb Kizuato Studio"
+ ],
+ "files": [
+  {
+   "path": "SK/ALL0.SNL",
+   "patch": "SK_ALL0.SNL.bps",
+   "source": {
+    "size": 306227,
+    "crc32": "0692c37a"
+   },
+   "target": {
+    "size": 321426,
+    "crc32": "b6a90955"
+   }
+  },
+  {
+   "path": "SK/ALL0.SNB",
+   "patch": "SK_ALL0.SNB.bps",
+   "source": {
+    "size": 18364,
+    "crc32": "33529ae5"
+   },
+   "target": {
+    "size": 17602,
+    "crc32": "46474cf5"
+   }
+  },
+  {
+   "path": "SK/ALL1.SNL",
+   "patch": "SK_ALL1.SNL.bps",
+   "source": {
+    "size": 268582,
+    "crc32": "72fc4533"
+   },
+   "target": {
+    "size": 277766,
+    "crc32": "2672dc1e"
+   }
+  },
+  {
+   "path": "SK/ALL1.SNB",
+   "patch": "SK_ALL1.SNB.bps",
+   "source": {
+    "size": 16982,
+    "crc32": "6cd7390f"
+   },
+   "target": {
+    "size": 16188,
+    "crc32": "9041dba2"
+   }
+  },
+  {
+   "path": "SK/ALL2.SNL",
+   "patch": "SK_ALL2.SNL.bps",
+   "source": {
+    "size": 183551,
+    "crc32": "e7e874d0"
+   },
+   "target": {
+    "size": 188964,
+    "crc32": "cfedbe64"
+   }
+  },
+  {
+   "path": "SK/ALL2.SNB",
+   "patch": "SK_ALL2.SNB.bps",
+   "source": {
+    "size": 26424,
+    "crc32": "e47f405a"
+   },
+   "target": {
+    "size": 24512,
+    "crc32": "93ba8e66"
+   }
+  },
+  {
+   "path": "SK/ALL.S0",
+   "patch": "SK_ALL.S0.bps",
+   "source": {
+    "size": 147125,
+    "crc32": "00450fee"
+   },
+   "target": {
+    "size": 159856,
+    "crc32": "f47bd229"
+   }
+  },
+  {
+   "path": "SK/OP000.TXT",
+   "patch": "SK_OP000.TXT.bps",
+   "source": {
+    "size": 4419,
+    "crc32": "c9a7b5a9"
+   },
+   "target": {
+    "size": 5852,
+    "crc32": "0b11d076"
+   }
+  },
+  {
+   "path": "SK/END00.TXT",
+   "patch": "SK_END00.TXT.bps",
+   "source": {
+    "size": 926,
+    "crc32": "bb1c9e74"
+   },
+   "target": {
+    "size": 917,
+    "crc32": "d05a0a76"
+   }
+  },
+  {
+   "path": "SK/INVIS.TXT",
+   "patch": "SK_INVIS.TXT.bps",
+   "source": {
+    "size": 4162,
+    "crc32": "d235fee1"
+   },
+   "target": {
+    "size": 4590,
+    "crc32": "a33a4dd6"
+   }
+  },
+  {
+   "path": "SK/VISUAL.EXE",
+   "patch": "SK_VISUAL.EXE.bps",
+   "source": {
+    "size": 8272,
+    "crc32": "54e78058"
+   },
+   "target": {
+    "size": 14203,
+    "crc32": "c779a230"
+   }
+  },
+  {
+   "path": "SK/INVI0.TXT",
+   "patch": "SK_INVI0.TXT.bps",
+   "create": true,
+   "source": {
+    "size": 0,
+    "crc32": "00000000"
+   },
+   "target": {
+    "size": 817,
+    "crc32": "ffd607b1"
+   }
+  },
+  {
+   "path": "SK/INVI1.TXT",
+   "patch": "SK_INVI1.TXT.bps",
+   "create": true,
+   "source": {
+    "size": 0,
+    "crc32": "00000000"
+   },
+   "target": {
+    "size": 893,
+    "crc32": "3196f24c"
+   }
+  },
+  {
+   "path": "SK/INVI2.TXT",
+   "patch": "SK_INVI2.TXT.bps",
+   "create": true,
+   "source": {
+    "size": 0,
+    "crc32": "00000000"
+   },
+   "target": {
+    "size": 1415,
+    "crc32": "9b5a0d8a"
+   }
+  },
+  {
+   "path": "SK/INVI3.TXT",
+   "patch": "SK_INVI3.TXT.bps",
+   "create": true,
+   "source": {
+    "size": 0,
+    "crc32": "00000000"
+   },
+   "target": {
+    "size": 1465,
+    "crc32": "842a11fc"
+   }
+  },
+  {
+   "path": "SK/INVIS.TBL",
+   "patch": "SK_INVIS.TBL.bps",
+   "source": {
+    "size": 150,
+    "crc32": "7171e32b"
+   },
+   "target": {
+    "size": 150,
+    "crc32": "69830691"
+   }
+  },
+  {
+   "path": "SK/RPG.EXE",
+   "patch": "SK_RPG.EXE.bps",
+   "source": {
+    "size": 198998,
+    "crc32": "556facc2"
+   },
+   "target": {
+    "size": 198998,
+    "crc32": "a5693a5e"
+   }
+  },
+  {
+   "path": "SK/CHR.DAT",
+   "patch": "SK_CHR.DAT.bps",
+   "source": {
+    "size": 7800,
+    "crc32": "4e4e25ee"
+   },
+   "target": {
+    "size": 7800,
+    "crc32": "ed883b2d"
+   }
+  },
+  {
+   "path": "SK/DSHELL2.COM",
+   "patch": "SK_DSHELL2.COM.bps",
+   "source": {
+    "size": 2372,
+    "crc32": "7cbcdb30"
+   },
+   "target": {
+    "size": 2372,
+    "crc32": "b0818e6e"
+   }
+  },
+  {
+   "path": "SK/END06.DAT",
+   "patch": "SK_END06.DAT.bps",
+   "source": {
+    "size": 20345,
+    "crc32": "155f7446"
+   },
+   "target": {
+    "size": 20930,
+    "crc32": "217c1cc9"
+   }
+  }
+ ]
+}
